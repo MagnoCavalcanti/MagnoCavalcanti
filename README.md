@@ -12,6 +12,7 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Espress](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Sequelize](https://img.shields.io/badge/sequelize-323330?style=for-the-badge&logo=sequelize&logoColor=blue)
 ### 📊Github Stats:
 ![Magno GitHub stats](https://github-readme-stats.vercel.app/api?username=MagnoCavalcanti&show_icons=true&theme=radical)
 
